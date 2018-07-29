@@ -1,4 +1,4 @@
-package com.tshangar.example;
+package com.tshangar.examples;
 
 import org.apache.log4j.Logger;
 
